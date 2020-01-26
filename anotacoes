@@ -1,0 +1,84 @@
+VARREDURA
+O invasor faz varreduras na rede para descobrir computadores com permissão de acesso, ou seja, que tenham uma porta de comunicação aberta, e passa a usá-los para envio de e-mails, spam e vírus.
+
+
+INTERCEPTAÇAÕ DE TRAFEGOS
+O criminoso cibernético com acesso à rede intercepta os dados que estão trafegando na internet (chamados de pacote) e os copia ou os modifica.
+
+
+
+ATAQUES DE NAVEGAÇÃO DE SERVIÇOS
+O criminoso usa o seu computador na rede para enviar grande volume de mensagens para outros computadores, até torná-lo inoperante ou incapaz de se comunicar.
+
+
+ATAQUE DE FORMA BRUTA
+Computadores conectados à rede e que usem senhas como método de acesso estão vulneráveis a ataques de força bruta, que são algoritmos que “tentam” descobrir a senha.
+
+
+ATAQUES DE PERSONIFICAÇOES
+O criminoso cibernético substitui um computador da rede por outro, passando-se pelo dispositivo legítimo, capturando senhas de acesso e informações que por ele trafeguem.
+
+
+PREVENTIVA 
+As ações preventivas são as mais conhecidas e baratas de se implementar. Sua finalidade é evitar que o problema aconteça, ou seja, que as informações importantes saiam (ou entrem) de maneira indesejada.
+
+
+DETECTATIVA
+As ações detectivas visam detectar ou identificar se um problema ocorreu. Elas normalmente são tomadas porque as ações preventivas não foram realizadas. Quanto mais cedo detectar o problema, mais rápida e baratas serão as ações corretivas.
+
+CORRETIVA
+As ações corretivas são executadas quando determinado problema já ocorreu, foi detectado e precisa ser corrigido para que a organização ou o indivíduo retorne as suas atividades do dia a dia.
+
+Spyware
+É um programa oculto que se instala no computador e recolhe informações sobre o usuário, como senhas e dados pessoais, enviando-as para outros computadores por meio da internet. Instala-se por meio de arquivos anexos em e-mails, sites, programas gratuitos como jogos e aplicativos, entre outros.
+
+Keylogger
+Ameaça que se instala no computador normalmente por meio de anexos enviados no e-mail. O programa monitora as teclas digitadas e as grava em um arquivo escondido, que futuramente será enviado por e-mail para o criminoso cibernético.
+
+Adware
+São ameaças que ficam exibindo propagandas de produtos e serviços no computador, principalmente nos navegadores de internet, alterando as suas configurações. Tratam-se de ameaças que não causam danos graves, mas que incomodam demais os usuários e são das mais difíceis de ser removidas. Nesta categoria também existem o Hijacker.
+
+
+--------------------------------------------------------------------------/
+   processo de geração da assinatura digital e validação da mensagem      /
+                                                                          /
+1 passo)   Cria-se um resumo criptográfico da mensagem original.          /
+2 passo)   Com base em uma chave privada, gera-se a assinatura digital.   /
+3 passo)   A assinatura digital é enviada juntamente com a mensagem.      /
+4 passo)   A assinatura é verificada utilizando-se uma chave pública.     /
+--------------------------------------------------------------------------
+
+
+A computação em nuvem do tipo  tem infraestrutura desenvolvida e implantada por uma organização para seu uso exclusivo, visando desenvolver políticas de segurança que lhe garantam a confiabilidade dos dados.
+
+
+
+Política de Segurança
+especificar a organizacao
+especificar os itens
+avaliar itens
+normas e procedimentos
+treinamento
+prazos
+aceite
+
+
+
+Ordene corretamente as cinco etapas do processo de elaboração da Política de Segurança da Informação.
+
+5
+Definição das punições que serão aplicadas em caso de desobediência das regras.
+2
+Classificação das informações em pública, interna, confidencial ou secreta.
+1
+Avaliação das informações para definir prioridades, mecanismos de recuperação e o controle de acesso.
+3
+Definição das responsabilidades e regras de acesso com todos os funcionários da organização.
+4
+Treinamento dos funcionários sobre os cuidados necessários durante a execução de suas atividades.
+
+
+
+
+
+
