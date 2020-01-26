@@ -1,0 +1,1 @@
+# anotacoes-de-seguranca-do-certificado
